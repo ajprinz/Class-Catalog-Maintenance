@@ -1,2 +1,2 @@
-# Class-Catalog-Maintence
+# Class-Catalog-Maintenance
 Concept for a class catalog queue.
